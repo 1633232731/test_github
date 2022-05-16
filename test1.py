@@ -7,3 +7,6 @@ f = 6
 g = 7
 
 i = 9
+
+def func(a):
+    return a+1
